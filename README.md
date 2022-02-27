@@ -2,6 +2,7 @@
 ##### Since you're here, how about taking a look, doesn't it cost anything? 😂
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimAlt&show_icons=true&theme=dracula&count_private=true)
+<a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimAlt&layout=compact&theme=react"></a>
 
 ### Learning...
 
