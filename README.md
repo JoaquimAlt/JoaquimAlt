@@ -1,28 +1,41 @@
-### Hello there i am Joaquim Neto 👋
-##### Since you're here, how about taking a look, doesn't it cost anything? 😂
+<img src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<h1 width="100"> Hello! </h1>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimAlt&show_icons=true&theme=dracula&count_private=true)
-<a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquimAlt&layout=compact&theme=react"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquim-neto-047993241/)](https://www.linkedin.com/in/joaquim-neto-047993241/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaquimferreira1818@gmail.com)](mailto:joaquimferreira1818@gmail.com)
 
-### Learning...
+<h3>My Name is Joaquim Ferreira</h3> 
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/Javascript-F94C10?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  
+( React | Typescript | JavaScript | Node.js | Express | MongoDB | Dart | REST | PostegreSQL | MaterialUI | ChakraUI ) 🚀
 
-  
-</div><br/>
 
-#### My networks
+- Information systems student - Federal University of Ceará
+- I am 19 years old, I started programming in early 2022 and I am studying to improve my skills as Front-End Engineer 😎
+- Check some of my personal projects 😃
 
+ <a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JoaquimAlt&layout=compact&langs_count=7&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=JoaquimAlt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</a>
+
+
+
+<div style="display: inline_block"><br>  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> 
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+<h4>Contacts</h4> 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquimferreira1818@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquim-neto-047993241/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaquimnetofs)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/quimnt)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Quim188)
-
-
