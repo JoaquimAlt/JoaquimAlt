@@ -10,7 +10,7 @@
 
 
 - Information systems student - Federal University of Ceará
-- I am 19 years old, I started programming in early 2022 and I am studying to improve my skills as Front-End Engineer 😎
+- I am 20 years old, I started programming in early 2022 and I am studying to improve my skills as Front-End Engineer 😎
 - Check some of my personal projects 😃
 
  <a  href="https://github.com/anuraghazra/github-readme-stats">
